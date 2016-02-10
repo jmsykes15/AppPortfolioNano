@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Portfolio Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="bio">Bio: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis venenatis lectus, in facilisis justo. Donec id lacinia ante. Nam rutrum massa eget felis molestie facilisis. Donec vulputate, erat vitae sagittis ornare, quam nibh venenatis turpis, a venenatis tellus dui quis eros. Integer sit amet nisi vitae sem tincidunt imperdiet. Aliquam gravida ut lacus id maximus. Cras vitae bibendum velit.</string>
+    <string name="phone">Phone: (661)532-8449</string>
+    <string name="name">Name: Jason Sykes</string>
+    <string name="email">Email: jmsykes15@gmail.com</string>
+</resources>
