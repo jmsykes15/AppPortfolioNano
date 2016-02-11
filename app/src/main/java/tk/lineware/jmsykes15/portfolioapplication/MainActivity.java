@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
+
     }
 
     @Override
@@ -53,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void spotifyStreamerPressed(View view){
-        Toast.makeText(getApplicationContext(),"Spotify Streamer not yet ready.",Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(),"Spotify Streamer due on 3/1/2016.",Toast.LENGTH_SHORT).show();
     }
     public void scoresAppPressed(View view){
         Toast.makeText(getApplicationContext(),"Scores not yet ready.",Toast.LENGTH_SHORT).show();
